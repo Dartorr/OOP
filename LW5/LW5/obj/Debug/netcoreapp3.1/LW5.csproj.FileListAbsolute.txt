@@ -1,0 +1,13 @@
+C:\Users\Dartor\source\repos\LW5\LW5\bin\Debug\netcoreapp3.1\LW5.exe
+C:\Users\Dartor\source\repos\LW5\LW5\bin\Debug\netcoreapp3.1\LW5.deps.json
+C:\Users\Dartor\source\repos\LW5\LW5\bin\Debug\netcoreapp3.1\LW5.runtimeconfig.json
+C:\Users\Dartor\source\repos\LW5\LW5\bin\Debug\netcoreapp3.1\LW5.runtimeconfig.dev.json
+C:\Users\Dartor\source\repos\LW5\LW5\bin\Debug\netcoreapp3.1\LW5.dll
+C:\Users\Dartor\source\repos\LW5\LW5\bin\Debug\netcoreapp3.1\LW5.pdb
+C:\Users\Dartor\source\repos\LW5\LW5\obj\Debug\netcoreapp3.1\LW5.csprojAssemblyReference.cache
+C:\Users\Dartor\source\repos\LW5\LW5\obj\Debug\netcoreapp3.1\LW5.AssemblyInfoInputs.cache
+C:\Users\Dartor\source\repos\LW5\LW5\obj\Debug\netcoreapp3.1\LW5.AssemblyInfo.cs
+C:\Users\Dartor\source\repos\LW5\LW5\obj\Debug\netcoreapp3.1\LW5.csproj.CoreCompileInputs.cache
+C:\Users\Dartor\source\repos\LW5\LW5\obj\Debug\netcoreapp3.1\LW5.dll
+C:\Users\Dartor\source\repos\LW5\LW5\obj\Debug\netcoreapp3.1\LW5.pdb
+C:\Users\Dartor\source\repos\LW5\LW5\obj\Debug\netcoreapp3.1\LW5.genruntimeconfig.cache
