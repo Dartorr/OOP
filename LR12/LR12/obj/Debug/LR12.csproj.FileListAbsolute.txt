@@ -1,0 +1,17 @@
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\LR12.exe.config
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\LR12.exe
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\LR12.pdb
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\System.Text.Json.dll
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\System.Memory.dll
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\System.Buffers.dll
+C:\Users\Dartor\source\repos\LR12\LR12\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dartor\source\repos\LR12\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+C:\Users\Dartor\source\repos\LR12\LR12\obj\Debug\LR12.exe.config
+C:\Users\Dartor\source\repos\LR12\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+C:\Users\Dartor\source\repos\LR12\LR12\obj\Debug\LR12.csproj.CopyComplete
+C:\Users\Dartor\source\repos\LR12\LR12\obj\Debug\LR12.exe
+C:\Users\Dartor\source\repos\LR12\LR12\obj\Debug\LR12.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dartor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dartor\\.nuget\\packages"
+    ]
+  }
+}

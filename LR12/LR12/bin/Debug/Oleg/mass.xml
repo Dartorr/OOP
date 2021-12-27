@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfTech xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tech>
+    <Cost>0</Cost>
+    <Age>1</Age>
+    <Model>oleg</Model>
+    <Power_consumption>5</Power_consumption>
+    <Complexity>2</Complexity>
+  </Tech>
+  <Tech>
+    <Cost>0</Cost>
+    <Age>1</Age>
+    <Model>oleg</Model>
+    <Power_consumption>5</Power_consumption>
+    <Complexity>2</Complexity>
+  </Tech>
+  <Tech>
+    <Cost>0</Cost>
+    <Age>1</Age>
+    <Model>oleg</Model>
+    <Power_consumption>5</Power_consumption>
+    <Complexity>2</Complexity>
+  </Tech>
+  <Tech>
+    <Cost>0</Cost>
+    <Age>1</Age>
+    <Model>oleg</Model>
+    <Power_consumption>5</Power_consumption>
+    <Complexity>2</Complexity>
+  </Tech>
+</ArrayOfTech>
